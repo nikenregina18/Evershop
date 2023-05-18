@@ -1,0 +1,14 @@
+[
+    {
+        "SignUpCase":"Positive",
+        "fullname":"My Name",
+        "email":"johnd1234567890@email.com",
+        "password":"!Name123"
+    },
+    {
+        "SignUpCase":"Negative",
+        "fullname":"My Name",
+        "email":"johnd123@email.com",
+        "password":"!Name123"
+    }
+]

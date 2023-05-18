@@ -1,0 +1,12 @@
+[
+    {
+        "SignInCase":"Positive",
+        "email":"johnd@email.com",
+        "password":"!John123"
+    },
+    {
+        "SignInCase":"Negative",
+        "email":"johndsalah@email.com",
+        "password":"!John123"
+    }
+]

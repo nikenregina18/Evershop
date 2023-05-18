@@ -1,0 +1,23 @@
+[
+    {
+        "productName":"Nike air zoom pegasus 35",
+        "quantity":"1",
+        "size":"M",
+        "color":"Blue",
+        "price":"411"
+    },
+    {
+        "productName":"Geography class chuck taylor all star",
+        "quantity":"1",
+        "size":"X",
+        "color":"White",
+        "price":"250"
+    },
+    {
+        "productName":"Chuck taylor all star",
+        "quantity":"1",
+        "size":"L",
+        "color":"Pink",
+        "price":"504"
+    }
+]

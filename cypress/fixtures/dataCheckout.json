@@ -1,0 +1,11 @@
+[
+    {
+        "email":"johndoe@gmail.com",
+        "fullname":"John Doe",
+        "phone":"123432",
+        "address":"Tampa",
+        "city":"Florida",
+        "country":"US",
+        "postcode":"1234"
+    }
+]
